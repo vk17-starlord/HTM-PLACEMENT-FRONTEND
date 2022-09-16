@@ -2,7 +2,10 @@ import React from 'react'
 
 function LandingPage() {
   return (
-    <div className=''>LandingPage</div>
+    <div className=''>
+     
+    </div>
+
   )
 }
 

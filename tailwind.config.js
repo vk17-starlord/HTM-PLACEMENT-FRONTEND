@@ -9,9 +9,10 @@ module.exports = {
     
     extend: {
       colors: {
-      "primary":'#0030BB',
-      "text-gray":'rgba(0, 0, 0, 0.5)',
-      "text-blue":'rgba(56, 106, 253, 1)',
+      "primary":'rgba(56, 106, 253, 1)',
+      "primary-dark":'#0030BB',
+      "p-gray":'rgba(0, 0, 0, 0.5)',
+      "light-voilet":'rgba(56, 106, 253, 1)',
       "light-pink":'rgba(243, 241, 255, 1)',
       "light-blue":'rgba(204, 227, 253, 0.75)',
       "extra-light-blue":'#F8F7FF',
